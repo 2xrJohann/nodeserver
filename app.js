@@ -1,10 +1,3 @@
-/************************************
-|				Hello				|
-|	  Welcome to our node js file  	|
-|		    Enjoy your stay 		|
-|				  :D   				|
-************************************/
-
 /*
 Note, the the returns from the functions below
 are what is being sent back through the response
